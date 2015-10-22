@@ -1,3 +1,4 @@
+/* Copyright Acadine inc. */
 /*jslint node: true */
 'use strict';
 
