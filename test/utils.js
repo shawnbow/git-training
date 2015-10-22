@@ -1,3 +1,4 @@
+/* CopyRight Acadine inc. */
 /**
  * This file exports all 'utils' functions, which indeed exports the
  * implementations inside the 'utils-node' and 'utils-xpc' files.
