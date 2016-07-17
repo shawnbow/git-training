@@ -1,0 +1,3 @@
+[submodule "submodule/bldsys"]
+	path = submodule/bldsys
+	url = https://github.com/shawnbow/bldsys.git
